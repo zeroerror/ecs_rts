@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfInt32GoldCostCfg>
+  <SerializableDictionary>
+    <key>
+      <int>1</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="1" CharacterType="步兵" Cost="100" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>2</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="2" CharacterType="战士" Cost="200" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>3</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="3" CharacterType="枪手" Cost="300" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>4</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="4" CharacterType="炮车" Cost="1000" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>5</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="5" CharacterType="坦克" Cost="1500" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>6</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="6" CharacterType="机枪人" Cost="1800" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>7</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="7" CharacterType="防御塔" Cost="2300" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>8</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="8" CharacterType="礼物炮车" Cost="800" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>9</int>
+    </key>
+    <value>
+      <GoldCostCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="9" CharacterType="自由骑士" Cost="1500" />
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfInt32GoldCostCfg>

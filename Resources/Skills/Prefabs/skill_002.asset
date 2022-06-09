@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35146a21b68eb247988b3899efdb74e, type: 3}
+  m_Name: skill_002
+  m_EditorClassIdentifier: 
+  damageType: 0
+  totalTime: 15
+  health: 30
+  healthBuffInfo:
+    isStackable: 1
+    stackInterval: 0.3
+    needReset: 0
+  energy: 0
+  energyBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 0
+  atkStrength: 400
+  atkStrengthBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 1
+  atkSpeed: 2
+  atkSpeedBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 1
+  moveSpeed: 15
+  moveSpeedBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 1
+  atkRange: 5
+  atkRangeBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 1
+  damageRange: 0
+  damageRangeBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 0
+  bulletInitSpeed:
+    x: 0
+    y: 0
+    z: 0
+  bulletInitSpeedBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 0
+  searchRange: 0
+  searchRangeBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 0
+  smallSkillCD: 0
+  smallSkillNeedEnergy: 0
+  bigSkillCD: 0
+  bigSkillNeedEnergy: 0
+  cdShrink: 0.8
+  cdShrinkBuffInfo:
+    isStackable: 0
+    stackInterval: 0
+    needReset: 1
