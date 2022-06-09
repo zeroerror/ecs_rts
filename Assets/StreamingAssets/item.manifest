@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 960121810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05feca04a5f5e29dd8db46378de79932
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb5a8f39d52cf30c06429fb27940d252
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea7d7495833204790ba1d3a8755397f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18f2b6889da7ce340a29a3bbe9642bb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26e9cb989c17d464ca11cf67018b7c1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6dfd49e5734de949bac699cd35fa438, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Scenes/Prefabs/\u73AF\u5883/\u56F4\u5899.prefab"
+- "Assets/Scenes/Prefabs/Entity_\u7816\u5757.prefab"
+- "Assets/Scenes/Prefabs/\u73AF\u5883/\u56F4\u5899_\u957F.prefab"
+Dependencies: []

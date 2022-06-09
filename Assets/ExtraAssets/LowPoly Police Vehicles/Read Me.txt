@@ -1,0 +1,17 @@
+LowPoly Police Vehicles
+
+
+This package contain Car, Van, Helicopter and Boat police Vehicles with very lowpoly models for mobile games.
+
+All models are available in .fbx format in "Models" folder.
+
+All models are using same texture placed in "Texture" folder.
+
+All prefabs are placed in "Prefab" folder.
+
+Vehicle prefabs contain animations, particles and sound effects which you can check preview by running "SampleScene".
+
+If you have any problem or question about the package, please contact digismile.co.nz@gmail.com
+
+
+Thank you.

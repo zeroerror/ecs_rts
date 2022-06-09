@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 232574531
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dae7cb264f0bb823eb62afcf937f48e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bad5b45c27ae6a1d3e6dbbe1c08b1b09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69631e0efac3ff94292dc8b54d547c43, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Camera/Prefabs/\u5730\u56FE\u76F8\u673A.prefab"
+Dependencies: []

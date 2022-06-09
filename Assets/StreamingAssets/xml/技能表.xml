@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfInt32SkillCfg>
+  <SerializableDictionary>
+    <key>
+      <int>1001</int>
+    </key>
+    <value>
+      <SkillCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SkillID="1001" Memo="自由骑士的小技能" CostEnergy="100" CD="3" AssetPath="Skills/Prefabs/" AssetName="skill_001" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>1002</int>
+    </key>
+    <value>
+      <SkillCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SkillID="1002" Memo="自由骑士的大技能" CostEnergy="300" CD="10" AssetPath="Skills/Prefabs/" AssetName="skill_002" />
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfInt32SkillCfg>
