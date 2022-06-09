@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: common
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8f5cc552106eb664a9f8ce4f2495ea78, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: de73080051ab53345a986a9a9f1b2950, type: 3}
+  - {fileID: 21300000, guid: 4674aa203ea777a4cb04646a578f6e8e, type: 3}
+  - {fileID: 21300000, guid: 62190ab0d92991248882e4cf8cebcd37, type: 3}
+  - {fileID: 21300000, guid: 13904b21bb0f74940a433445b471fe8c, type: 3}
+  - {fileID: 21300000, guid: 1c2c1602908203a4b9ea1c25f7b8fc77, type: 3}
+  - {fileID: 21300000, guid: 9a194fe36fcc9dd4b8e6d118bf91cee9, type: 3}
+  - {fileID: 21300000, guid: 96c445740c83f734aa93dd2d3c6649d4, type: 3}
+  - {fileID: 21300000, guid: 6e139ac48d892004bb1b42d90a227bef, type: 3}
+  - {fileID: 21300000, guid: e557ae45d6f78f2439c06d22dcab8a42, type: 3}
+  - {fileID: 21300000, guid: f25d68d5905de2b4a8b31b52857ce616, type: 3}
+  - {fileID: 21300000, guid: 1dea74477a435ab478bd83c2cab07079, type: 3}
+  - {fileID: 21300000, guid: decd32974dee90c4692bf503ac184bd7, type: 3}
+  - {fileID: 21300000, guid: 2553a6280b26cb54f88667ed512cd6b0, type: 3}
+  - {fileID: 21300000, guid: a13aab7842b8f5a45b90e4b4f96a48e5, type: 3}
+  - {fileID: 21300000, guid: bff1c5b8962b1e447a2df43d4565eec5, type: 3}
+  - {fileID: 21300000, guid: 2f26980a47507f846b9f04de76e7538d, type: 3}
+  - {fileID: 21300000, guid: 2204b62c20a1328458c8ad0231d84876, type: 3}
+  - {fileID: 21300000, guid: bc4bc73ebd90c9040903c3d1000e50c9, type: 3}
+  - {fileID: 21300000, guid: c392a86e8dc18d04e977d20e1e0dcfed, type: 3}
+  - {fileID: 21300000, guid: f63a6affd6672ae44b3ea2da890050b0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u9009\u4E2D\u6846"
+  - "\u91D1\u5E01"
+  - "\u81EA\u7531\u9A91\u58EB"
+  - "\u6218\u58EB"
+  - "\u793C\u7269\u70AE\u8F66"
+  - "\u5766\u514B"
+  - btn_yellow
+  - move
+  - "\u70B8\u5F39"
+  - "\u70AE\u8F66"
+  - "\u673A\u67AA\u4EBA"
+  - health_bar
+  - Arrow
+  - "\u5B9E\u5FC3\u5706\u73AF"
+  - "\u9632\u5FA1\u5854"
+  - NewRecord
+  - "\u5706\u73AF"
+  - "\u6B65\u5175"
+  - CFX Demo Btn Camera H
+  - "\u67AA\u624B"
+  m_Tag: common
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

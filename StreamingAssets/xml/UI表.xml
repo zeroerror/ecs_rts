@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfStringUICfg>
+  <SerializableDictionary>
+    <key>
+      <string>FPS</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="FPS" Layer="Debug" AssetPath="UI/Prefabs/" AssetName="FPS" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>Home</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="Home" Layer="Home" AssetPath="UI/Prefabs/Home/" AssetName="Home" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>InfoItem</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="InfoItem" Layer="Normal" AssetPath="UI/Prefabs/GameInfo/GameInfoUIs/" AssetName="InfoItem" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>TopMenu</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="TopMenu" Layer="Normal" AssetPath="UI/Prefabs/GameInfo/" AssetName="TopMenu" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>ShopItem</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="ShopItem" Layer="Normal" AssetPath="UI/Prefabs/GameInfo/GameInfoUIs/" AssetName="ShopItem" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>GameWinPanel</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="GameWinPanel" Layer="Normal" AssetPath="UI/Prefabs/GameInfo/" AssetName="GameWinPanel" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>GameLostPanel</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="GameLostPanel" Layer="Normal" AssetPath="UI/Prefabs/GameInfo/" AssetName="GameLostPanel" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>AttributePanel</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="AttributePanel" Layer="Normal" AssetPath="UI/Prefabs/GameInfo/" AssetName="AttributePanel" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <string>MobilePanel</string>
+    </key>
+    <value>
+      <UICfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UIName="MobilePanel" Layer="Billboard" AssetPath="UI/Prefabs/Mobile/" AssetName="MobilePanel" />
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfStringUICfg>

@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 3206367856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 591419a89aff0f05f6d8490f224f89ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28b2d7d2cf7bd7b30e4abd9c642d5030
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a56bfd170c11fc4e9c4cd1d5c7e678a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffa7bbf173ecee8489b1b91ed2930fa0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6fc62822c422c84baab91e4d7a047a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 941a37038885dbb46bf7d0ab93c64958, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2650ca3ed8fabe469c1b12d921cf334, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4438be4686961e448f6e05d7e45755e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea7d7495833204790ba1d3a8755397f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f404e136ed2c4dd448db9121fefe680a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18f2b6889da7ce340a29a3bbe9642bb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 933946594dc2d394d9e9f21f14af92d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5464490e884ae7b4f86fda3268b70958, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97af380f92173ba4db413adad22dabcb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Characters/\u67AA\u624B.prefab"
+- "Assets/Resources/Characters/\u5B50\u5F39/\u9632\u5FA1\u5854\u5B50\u5F39.prefab"
+- "Assets/Resources/Characters/\u5B50\u5F39/\u8FEB\u51FB\u70AE\u5F39.prefab"
+- "Assets/Resources/Characters/\u5B50\u5F39/\u673A\u67AA\u4EBA\u5B50\u5F39.prefab"
+- "Assets/Resources/Characters/\u5B50\u5F39/\u8FEB\u51FB\u70AE\u5F39\u52A0\u5F3A\u7248.prefab"
+- "Assets/Resources/Characters/\u6218\u58EB.prefab"
+- "Assets/Resources/Characters/\u6B65\u5175.prefab"
+- "Assets/Resources/Characters/\u5B50\u5F39/\u67AA\u624B\u5B50\u5F39.prefab"
+- "Assets/Resources/Characters/\u5766\u514B.prefab"
+- "Assets/Resources/Characters/\u70AE\u8F66.prefab"
+- "Assets/Resources/Characters/\u5B50\u5F39/\u5766\u514B\u5B50\u5F39.prefab"
+Dependencies:
+- D:/ZeroHero/RTSGame/AssetBundles/PC/ui

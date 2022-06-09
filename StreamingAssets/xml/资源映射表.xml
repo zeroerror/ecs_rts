@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfInt32ResourceCfg>
+  <SerializableDictionary>
+    <key>
+      <int>1001</int>
+    </key>
+    <value>
+      <ResourceCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="1001" AssetPath="UI/Prefabs/" AssetName="HealthBar_Green" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <int>1002</int>
+    </key>
+    <value>
+      <ResourceCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="1002" AssetPath="UI/Prefabs/" AssetName="HealthBar_Red" />
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfInt32ResourceCfg>

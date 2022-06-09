@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5c8687361125a1f429b8d7cf7b52e8f3
+labels:
+- warfx
+- particles
+- explosion
+- desktop
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: effect
+  assetBundleVariant: 
