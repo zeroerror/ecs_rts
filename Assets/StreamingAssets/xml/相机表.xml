@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfStringCameraCfg>
+  <SerializableDictionary>
+    <key>
+      <string>地图相机</string>
+    </key>
+    <value>
+      <CameraCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CameraName="地图相机" PosY="25" OffsetZ="-8" AssetPath="Camera/Prefabs/" AssetName="地图相机" />
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfStringCameraCfg>

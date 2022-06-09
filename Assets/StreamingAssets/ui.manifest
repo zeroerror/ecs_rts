@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 3115813739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f32584b37ff7712523c5a8520b7df661
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3baac7b0ee130cd084bef4448ecea66
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b42c7581eb215cb4694f22ff4b4e4185, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de903a728c501da4ab0e3f8d39b36325, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a2d0192c45a88647a69086460b26c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79685c25542a2246a129347c61ccc6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9667a63f97efd047b85cc45cb23addc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fdd0a658fa86114aaad0a3f800fc913, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6afd8267eebd1ff429300d155178a756, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00bd4148108e04f49a84d71318afb62e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81609e8ca7592ca42a683cf81292161e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa21760d3a280954e82541bac9ae0475, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42844a4fccbd54746b90cade4ff70f73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bb4ec7f3dbce1948add5f496d4a2b62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/UI/UIAtlas/common.spriteatlas
+- Assets/Resources/UI/Prefabs/GameInfo/GameLostPanel.prefab
+- Assets/Resources/UI/UIAtlas/cursor.spriteatlas
+- Assets/Resources/UI/Prefabs/GameInfo/AttributePanel.prefab
+- Assets/Arts/UI/UITextures/common/move.png
+- Assets/Resources/UI/Prefabs/GameInfo/TopMenu.prefab
+- Assets/Resources/UI/UITextures/normal.png
+- Assets/Resources/UI/Prefabs/Home/Home.prefab
+- Assets/Resources/UI/Prefabs/FPS.prefab
+- Assets/Resources/UI/Prefabs/HealthBar_Green.prefab
+- Assets/Resources/UI/Prefabs/GameInfo/GameInfoUIs/InfoItem.prefab
+- Assets/Resources/UI/UITextures/enemy.png
+- Assets/Resources/UI/Prefabs/HealthBar_Red.prefab
+- Assets/Resources/UI/Prefabs/GameInfo/ChinarViewConsole.prefab
+- Assets/Resources/UI/Prefabs/GameInfo/AttributePanel1.prefab
+- Assets/Resources/UI/Prefabs/GameInfo/GameWinPanel.prefab
+- Assets/Resources/UI/UITextures/healthBar2.png
+- Assets/Resources/UI/Prefabs/Mobile/MobilePanel.prefab
+- Assets/Resources/UI/Prefabs/EnergyBar.prefab
+- Assets/Resources/UI/Prefabs/GameInfo/GameInfoUIs/ShopItem.prefab
+- Assets/Resources/UI/UITextures/healthBar1.png
+- Assets/Resources/UI/UITextures/ally.png
+Dependencies: []

@@ -1,0 +1,8 @@
+version: 2
+tpsheetFileNames:
+- Assets/Root/Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/Root/Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- Assets/Root/Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<SerializableDictionaryOfCharacterTypeKillRewardCfg>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>步兵</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="步兵" Gold="35" Exp="30" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>战士</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="战士" Gold="70" Exp="50" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>枪手</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="枪手" Gold="100" Exp="70" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>炮车</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="炮车" Gold="350" Exp="200" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>坦克</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="坦克" Gold="550" Exp="500" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>机枪人</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="机枪人" Gold="600" Exp="1000" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>防御塔</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="防御塔" Gold="2000" Exp="1000" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>礼物炮车</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="礼物炮车" Gold="400" Exp="200" />
+    </value>
+  </SerializableDictionary>
+  <SerializableDictionary>
+    <key>
+      <CharacterType>自由骑士</CharacterType>
+    </key>
+    <value>
+      <KillRewardCfg xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CharacterType="自由骑士" Gold="500" Exp="500" />
+    </value>
+  </SerializableDictionary>
+</SerializableDictionaryOfCharacterTypeKillRewardCfg>
